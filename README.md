@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Ishaan rejra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-🔭 I’m currently working on frontend projects<br><br>🌱 I’m currently learning Data structures and Algorithms.<br><br>🤝 I’m looking for help with javascript.<br><br>📫 How to reach me:ishaanrejra@gmail.com
+🔭 I’m currently working on frontend projects<br><br>🌱 I’m currently learning Data structures and Algorithms.<br><br>🤝 I’m looking for help with javascript.<br><br>📫 How to reach me: ishaanrejra@gmail.com
 
 
    ## 🌐 Socials:
