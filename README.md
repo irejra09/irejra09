@@ -3,7 +3,7 @@
 🔭 I’m currently working on frontend projects<br><br>🌱 I’m currently learning Data structures and Algorithms.<br><br>🤝 I’m looking for help with javascript.<br><br>📫 How to reach me: ishaanrejra@gmail.com
 
 
-   ## 🌐 Socials:
+   ## 🌐Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@ishaanrejra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ishaan-rejra/) 
 
 # 💻 Tech Stack:
