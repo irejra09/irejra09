@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Ishaan rejra</h1>
 <h3 align="center">A passionate Web Developer from India, currently delving into Full Stack projects and learning Data Structures and Algorithms.</h3>
-🔭 I’m currently working on Full Stack projects<br><br>🌱 I’m currently learning Data structures and Algorithms.<br><br>🤝 I’m looking for help with javascript.<br><br>📫 How to reach me: ishaanrejra@gmail.com
+🔭 I’m currently working on Full Stack projects<br><br>🌱 I’m currently learning React.js, Data structures and Algorithms.<br><br>💬 Ask me about: Web Development, C++.<br><br>📫 How to reach me: ishaanrejra@gmail.com
 
 
    ## 🌐Socials:
